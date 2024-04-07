@@ -15,9 +15,9 @@
   <img src="/Images/Microsoft-Power-BI-Logo-2016-500x281.png" title="Power BI" alt="Power BI" width="40" height="35"/>
   &nbsp;&nbsp;&nbsp;
 
-<br>
+<br><br>
   <img src="/Images/earth.gif" title="GitHub" alt="GitHub" width="100" height="100"/>
-<br>
+<br><br>
 
   <img src="/Images/logo-tinkercad-256.png" title="Tinkercad" alt="Tinkercad" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
