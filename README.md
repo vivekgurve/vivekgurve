@@ -43,7 +43,7 @@
 - 🏠 Live in Nagpur
 
 </div>
-<br><br>
+<br>
 
 <b> Contact me: </b>
 </br>
