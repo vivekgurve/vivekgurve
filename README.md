@@ -15,9 +15,9 @@
   <img src="/Images/Microsoft-Power-BI-Logo-2016-500x281.png" title="Power BI" alt="Power BI" width="40" height="35"/>
   &nbsp;&nbsp;&nbsp;
 
-  <br>
+<br>
   <img src="/Images/earth.gif" title="GitHub" alt="GitHub" width="100" height="100"/>
-  <br>
+<br>
 
   <img src="/Images/logo-tinkercad-256.png" title="Tinkercad" alt="Tinkercad" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
@@ -32,6 +32,25 @@
   <img src="/Images/QGC.png" title="QGroundControl" alt="QGroundControl" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
  
-  <br>
+</div>
+<br><br>
+  
+- :octocat: I'm Vivek Gurve
+- 👨‍🎓 Following a Master of Technology Program in Symbiosis Institute of Technology 
+  [SIT](https://www.sitpune.edu.in/)
+- 🎖 M.Tech- ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 🖥 | PGD-INDUSTRIAL ROBOTICS 🤖 | 
+  B.E- MECHANICAL ENGINEERING 🛠
+- 🏠 Live in Nagpur
 
- 
+</div>
+<br><br>
+
+<b> Contact me: </b>
+</br>
+
+<a href="https://www.linkedin.com/in/vivek-gurve-a46b0a144/">
+<img src=https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:gurvevivek@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white />
+</a>
