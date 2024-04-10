@@ -40,7 +40,7 @@
   [SIT](https://www.sitpune.edu.in/)
 - 🎖 M.Tech-ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 🖥 | PGD-INDUSTRIAL ROBOTICS 🤖 | 
   B.E-MECHANICAL ENGINEERING 🛠
-- 🏠 Live in Nagpur
+-  Live in Nagpur
 
 </div>
 <br>
