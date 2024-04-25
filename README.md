@@ -36,7 +36,7 @@
 </div>
 <br><br>
   
-- I'm Vivek Gurve
+- :octocat: I'm Vivek Gurve
 - 👨‍🎓 Following a Master of Technology Program in Symbiosis Institute of Technology 
   [SIT](https://www.sitpune.edu.in/)
 - 🎖 M.Tech-ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 🖥 | PGD-INDUSTRIAL ROBOTICS 🤖 | 
