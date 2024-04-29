@@ -54,3 +54,6 @@
 <a href="mailto:gurvevivek@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white />
 </a>
+
+</div>
+<br>
