@@ -43,8 +43,7 @@
   B.E-MECHANICAL ENGINEERING 🛠
 - 🏠Live in Nagpur
 
-</div>
-<br>
+
 
 <b> Contact me: </b>
 </br>
