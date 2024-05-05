@@ -17,8 +17,7 @@
 
 <br>
   <img src="Images/robotintro-dribble-unscreen.gif" title="GitHub" alt="GitHub" width="190" height="170"/>
-<br>
-<br>
+
 
   <img src="/Images/logo-tinkercad-256.png" title="Tinkercad" alt="Tinkercad" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
