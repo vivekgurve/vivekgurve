@@ -16,7 +16,8 @@
   &nbsp;&nbsp;&nbsp;
 
 <br>
-  <img src="Images/robotintro-dribble-unscreen.gif" title="GitHub" alt="GitHub" width="190" height="170"/>
+<br>
+  <img src="Images/earth.gif" title="GitHub" alt="GitHub" width="120" height="120"/>
 <br>
 <br>
 
