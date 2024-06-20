@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hello World !
+    Hello  !
   </h1>  
   <img src="/Images/python-logo.png" title="Python" **alt="Python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
