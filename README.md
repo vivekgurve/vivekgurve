@@ -54,8 +54,8 @@
 <br>
 <a href="https://www.linkedin.com/in/vivek-gurve-a46b0a144/">
 <img src=https://img.shields.io/badge/linkedin-%232E87FB.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
+  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=2qtZDQQAAAAJ&hl=en)
+  
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-000000?style=for-the-badge&logo=academia&logoColor=white)](https://independent.academia.edu/VGurve)
 </div>
-
